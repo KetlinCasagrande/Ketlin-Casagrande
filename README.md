@@ -28,12 +28,12 @@
 
 ## 📊 Estatísticas  
 
-![Kétlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)  
+![Kétlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ketlin-Casagrande&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketlin-CasagrandeO&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Como me encontrar?  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/SEU-LINKEDIN)  )  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketlin-casagrande-1a02b7214/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KetlinCasagrande)  
