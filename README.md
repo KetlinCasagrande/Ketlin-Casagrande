@@ -28,8 +28,8 @@
 
 ## 📊 Estatísticas  
 
-![Kétlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ketlin-Casagrande&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketlin-CasagrandeO&layout=compact&theme=radical)  
+![Kétlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KetlinCasagrande&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KetlinCasagrandeO&layout=compact&theme=radical)  
 
 ---
 
